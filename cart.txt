@@ -1,4 +1,8 @@
 cart creation
 payment add
+<<<<<<< HEAD
 cart discount
 
+=======
+this is stash for cart
+>>>>>>> f3f47b0 (stashing done)
