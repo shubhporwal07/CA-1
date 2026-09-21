@@ -1,4 +1,5 @@
 Devops:- Development and Operation
 React:- javascript library
 Next:- React Framework
+CI/CD:- continuous integration and deployment
 enrollment-related information
