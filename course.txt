@@ -1,5 +1,6 @@
 Devops:- Development and Operation
 React:- javascript library
 Next:- React Framework
+UI/UX:- User Interface and experience
 CI/CD:- continuous integration and deployment
 enrollment-related information
